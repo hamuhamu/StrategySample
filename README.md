@@ -1,1 +1,3 @@
 # StrategySample
+
+Strategyパターンのサンプル
